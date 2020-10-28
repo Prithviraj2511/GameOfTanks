@@ -1,7 +1,7 @@
 # GameOfTanks
 This is a local multiplayer tank game
 
-In this project we can play a multiplayer game with other players in our local network. Players will have their own tanks and some particular number of bullets. Players have to destroy opponents tank to win the game. Some amount of health will be decreased when tank gets hit by a bullet. When the health became  zero tank will be destroyed and Result will be  provided on the screen. Game is made by using <b>pygame</b> python library and <b>sockets</b>.
+In this project we can play a <b>multiplayer game</b> with other players in our local network. Players will have their own tanks and some particular number of bullets. Players have to destroy opponents tank to win the game. Some amount of health will be decreased when tank gets hit by a bullet. When the health became  zero tank will be destroyed and Result will be  provided on the screen. Game is made by using <b>pygame</b> python library and <b>sockets</b>.
 
 
 Setup -
