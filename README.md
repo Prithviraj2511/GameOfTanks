@@ -17,4 +17,4 @@ Then in computer 1 open terminal at Server file and write command as following :
 Open  terminal at computer 2 and 3 at file location Player and write command as following:-
 	command :- “python main.py”
 
-For more information kindly refer Documentation of this project
+For more information kindly refer <a href="https://github.com/Prithviraj2511/GameOfTanks/blob/master/Game%20of%20Tanks.docx">Documentation</a> of this project
