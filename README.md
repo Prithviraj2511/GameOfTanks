@@ -5,8 +5,8 @@ Players will have their own tanks and some particular number of bullets. Players
 
 ---
 ## Game Features :fire::-
-* Turrent is rotating  
-* Bullets and missiles can be fired from the tank (Sprites concept is applied) 
+* Turrent can rotate 360 degree and can fire.  
+* Bullets and missiles can be fired from the tank (Sprites concept is applied). 
 * Tank can move similarly as real tank move.
 * Every action has it's own Cool sound. 
 <img src="https://github.com/Prithviraj2511/GameOfTanks/blob/master/game%20of%20tanks.png" alt="Game img" height="400">
